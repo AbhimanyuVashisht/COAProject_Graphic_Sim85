@@ -1,6 +1,6 @@
 # COAProject_Graphic_Sim85
 Contributors
 Abhimanyu Vashisht (abhimanyuvashisht.av@gmail.com)
-Rahul Sharma
+Rahul Sharma (webcrat.tech@gmail.com)
 Sharadh Dhadhich
 Vasu Arora 
