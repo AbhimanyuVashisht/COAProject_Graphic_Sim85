@@ -1,6 +1,6 @@
 /****************************************************************************************
  *											*
- *	Author		:	Yash , Atin , Shaurya , Nipun 				*
+ *	Author		:	Abhimanyu Vashisht 				*
  *	File name 	:	sim-85.cpp						*
  *	Description	:	This sofware is a virtual simulator for the 		*
  *				processor 8085.	The input is in the form of txt		*
@@ -313,8 +313,8 @@ void show_creator()
 
     }
         setcolor(WHITE);
-    outtextxy(330,655," Yash             Atin             Shaurya      Nipun      Abhishek");
-    outtextxy(330,670," Bhardwaj      Agnihotri      Kalia          Garg       Gupta");
+    outtextxy(330,655," Abhimanyu   ");
+    outtextxy(330,670," Vashisht    ");
     delay(4000);
         setcolor(BLACK);
     for(int i=399;i>2;i--)
